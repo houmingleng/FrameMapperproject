@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Java1908-FrameworkC6-20191122/案例/shareweb/src/com/uplooking/service/TieService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Java1908-FrameworkC6-20191122/案例/shareweb/src/com/uplooking/service/impl/TieServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Java1908-FrameworkC6-20191122/案例/shareweb/src/com/uplooking/servlet/TieServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Java1908-FrameworkC6-20191122/案例/shareweb/src/com/uplooking/servlet/UserServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Java1908-FrameworkC6-20191122/案例/shareweb/src/com/uplooking/util/MybatisSessionFactory.java" charset="GBK" />
+  </component>
+</project>

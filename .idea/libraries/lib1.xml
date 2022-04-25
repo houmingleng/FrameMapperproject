@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Java1908-FrameworkC6-20191122/内测/mybatis_exam/WebContent/WEB-INF/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/Java1908-FrameworkC6-20191122/内测/mybatis_exam/WebContent/WEB-INF/lib" recursive="false" />
+  </library>
+</component>
